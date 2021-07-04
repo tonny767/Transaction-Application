@@ -1,0 +1,14 @@
+D:\msys64\home\McRoven\PT13\bin\Debug\netcoreapp2.0\PT13.deps.json
+D:\msys64\home\McRoven\PT13\bin\Debug\netcoreapp2.0\PT13.runtimeconfig.json
+D:\msys64\home\McRoven\PT13\bin\Debug\netcoreapp2.0\PT13.runtimeconfig.dev.json
+D:\msys64\home\McRoven\PT13\bin\Debug\netcoreapp2.0\PT13.dll
+D:\msys64\home\McRoven\PT13\bin\Debug\netcoreapp2.0\PT13.pdb
+D:\msys64\home\McRoven\PT13\obj\Debug\netcoreapp2.0\PT13.csprojAssemblyReference.cache
+D:\msys64\home\McRoven\PT13\obj\Debug\netcoreapp2.0\PT13.csproj.CoreCompileInputs.cache
+D:\msys64\home\McRoven\PT13\obj\Debug\netcoreapp2.0\PT13.AssemblyInfoInputs.cache
+D:\msys64\home\McRoven\PT13\obj\Debug\netcoreapp2.0\PT13.AssemblyInfo.cs
+D:\msys64\home\McRoven\PT13\obj\Debug\netcoreapp2.0\PT13.dll
+D:\msys64\home\McRoven\PT13\obj\Debug\netcoreapp2.0\PT13.pdb
+D:\msys64\home\McRoven\PT13\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\msys64\home\McRoven\PT13\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\msys64\home\McRoven\PT13\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
